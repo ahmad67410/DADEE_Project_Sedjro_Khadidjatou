@@ -22,7 +22,7 @@ It mobilizes four prospective methods:
 ```
 ├── README.md
 ├── scripts/
-│   └── DADEE_script_final.R       
+│   └── DADEE_Project_Code_Sedjro_Khadidjatou.R       
 ├── figures/                       
 │   ├── fig1_passages_paca.png
 │   ├── fig2_ratio_passages_lits.png
